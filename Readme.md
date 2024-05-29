@@ -1,0 +1,1 @@
+This is my practice time pass javascript project using gsap and throttle function. 
